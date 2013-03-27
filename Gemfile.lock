@@ -55,7 +55,6 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.21)
     multi_json (1.7.2)
-    newrelic_rpm (3.6.0.78)
     pg (0.14.1)
     polyglot (0.3.3)
     rack (1.4.5)
@@ -111,7 +110,6 @@ DEPENDENCIES
   bootstrap-sass (~> 2.2.2.0)
   coffee-rails (~> 3.2.1)
   jquery-rails
-  newrelic_rpm
   pg
   rails (= 3.2.13)
   sass-rails (~> 3.2.3)
